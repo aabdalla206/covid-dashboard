@@ -2,6 +2,10 @@
 
 **Live Site:** https://aabdalla206.github.io/covid-dashboard
 
+### AI Disclosure:
+
+Ai was used to add comments to code and reformat to be more understandble as well as making the readme file easy to comprehend.
+
 ## Overview
 
 An interactive smart dashboard visualizing COVID-19 case data across all 50 US states. Built with Mapbox GL JS for the map component and C3.js/D3.js for data visualizations.
